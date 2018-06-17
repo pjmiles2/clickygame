@@ -1,81 +1,81 @@
 [
   {
     "id": 1,
-    "name": "SpongeBob",
-    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/4/47/Spongebob-squarepants.svg/666px-Spongebob-squarepants.svg.png",
+    "name": "White Sox",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Chicago_White_Sox.svg/181px-Chicago_White_Sox.svg.png",
     "checked": false
 },
   {
     "id": 2,
-    "name": "Mr. Krabs",
-    "image": "https://vignette3.wikia.nocookie.net/vsbattles/images/8/80/Mr._Krabs.png/revision/latest?cb=20150919162131",
+    "name": "Cubs",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Chicago_Cubs_logo.svg/1200px-Chicago_Cubs_logo.svg.png",
     "checked": false
 },
   {
     "id": 3,
-    "name": "Squidward",
-    "image": "https://vignette2.wikia.nocookie.net/fictionalcharacters/images/a/ac/Squidward.png/revision/latest?cb=20131121012626",
+    "name": "Diamondbacks",
+    "image": "https://i.pinimg.com/originals/6c/f8/33/6cf8332928dcfe710672e021b862741a.jpg",
     "checked": false
 },
   {
     "id": 4,
-    "name": "Dexter",
-    "image": "https://s-media-cache-ak0.pinimg.com/originals/fe/32/49/fe32495d45283cd6860ae122f0aeaad9.png",
+    "name": "Tigers",
+    "image": "https://i.pinimg.com/originals/11/c3/c8/11c3c85264e3906fa05c0b0b69496ad2.gif",
     "checked": false
   },
   {
     "id": 5,
-    "name": "Courage",
-    "image": "https://vignette4.wikia.nocookie.net/vsbattles/images/3/39/Courage-0.png/revision/latest?cb=20160719055423",
+    "name": "Twins",
+    "image": "https://www.qdigitalstudio.com/images/uploads/articles/Minnesota-Twins-Logo.png",
     "checked": false
 
   },
   {
     "id": 6,
-    "name": "Doug Funnie",
-    "image": "https://vignette1.wikia.nocookie.net/doug/images/3/3b/Doug001.gif/revision/latest?cb=20110807170511",
+    "name": "Mariners",
+    "image": "https://www.qdigitalstudio.com/images/uploads/articles/Seattle-Mariners-logo.gif",
     "checked": false
 
   },
   {
     "id": 7,
-    "name": "Bugs Bunny",
-    "image": "https://vignette2.wikia.nocookie.net/deathbattlefanon/images/2/2b/Bugs_Bunny.png/revision/latest?cb=20151206010607",
+    "name": "Pirates",
+    "image": "https://www.qdigitalstudio.com/images/uploads/articles/mcclatchy-era-logo.gif",
     "checked": false
 
   },
   {
     "id": 8,
-    "name": "Johnny Bravo",
-    "image": "http://vignette3.wikia.nocookie.net/p__/images/9/9a/Johnny_Bravo.png/revision/latest?cb=20131031233339&path-prefix=protagonist",
+    "name": "Blue Jays",
+    "image": "https://www.qdigitalstudio.com/images/uploads/articles/TorontoBlueJays2012primary.png",
     "checked": false
 
   },
   {
     "id": 9,
-    "name": "Tommy Pickles",
-    "image": "https://vignette4.wikia.nocookie.net/uncyclopedia/images/e/e4/Tommy_Pickles.png/revision/latest?cb=20110530102641",
+    "name": "Orioles",
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/Baltimore_Orioles_logo.svg/249px-Baltimore_Orioles_logo.svg.png",
     "checked": false
 
   },
   {
     "id": 10,
-    "name": "Rocko",
-    "image": "http://vignette3.wikia.nocookie.net/rockosmodernlife/images/9/9e/Rockos-modern-life-4e582a8f06a41.png/revision/latest?cb=20130522173416",
+    "name": "Dodgers",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Los_Angeles_Dodgers.png",
     "checked": false
 
   },
   {
     "id": 11,
-    "name": "Captain Planet",
-    "image": "http://vignette2.wikia.nocookie.net/dragon-rap-battles/images/b/b6/Captain_Planet.png/revision/latest?cb=20160911200836",
+    "name": "Red Sox",
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6d/RedSoxPrimary_HangingSocks.svg/320px-RedSoxPrimary_HangingSocks.svg.png",
     "checked": false
 
   },
   {
     "id": 12,
-    "name": "Ickis",
-    "image": "http://static.tvtropes.org/pmwiki/pub/images/ickis.png",
+    "name": "Phillies",
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/8/84/Philadelphia_Phillies.svg/150px-Philadelphia_Phillies.svg.png",
     "checked": false
 
   }
