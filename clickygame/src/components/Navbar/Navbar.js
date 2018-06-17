@@ -1,8 +1,8 @@
 import React from "react";
 
-const Navbar = () => (
+const Navbar = props => (
   <nav className="navbar navbar-expand-lg navbar-dark bg-primary">
-  <h1>Clicky Game!</h1>
+  <p>Clicky Game!</p>
 
   </nav>
 );
