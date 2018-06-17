@@ -1,9 +1,13 @@
 import React from "react";
 
 const Navbar = ({children}) => (
-  <nav className="navbar navbar-expand-lg navbar-dark bg-primary">
-    {children}
-  </nav>
+
+<ul class="nav nav-pills nav-justified">
+{children}
+
+</ul>
+
+
 );
 
 export default Navbar;

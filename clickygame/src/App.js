@@ -62,9 +62,9 @@ render() {
   return (
     <div>
     <Navbar>
-      <p>Clicky Game!</p>
-      <p className="score">Score: {this.state.score} | Top Score: {this.state.topScore}</p>
-      <p className="status">{this.state.status}</p>
+      <li className="nav-item">Clicky Game!</li>
+      <li className="nav-item">{this.state.status}</li>
+      <li className="nav-item">Score: {this.state.score} | Top Score: {this.state.topScore}</li>
     </Navbar>
     <Jumbotron>
         <h1>Clicky Game!</h1>
