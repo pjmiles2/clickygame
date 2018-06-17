@@ -1,4 +1,21 @@
 .jumbotron {
 
-    background-image: url("../topography.png");
+    background-image: url("../dirt.jpg");
+    
+    font-family: 'Acme', sans-serif;
+    text-align: center
+
+}
+
+h1 {
+    font-size: 50pt;
+    color: whitesmoke;
+    text-shadow: 2px 2px black;
+
+}
+
+p {
+    font-size: 20pt;
+    color: whitesmoke;
+    text-shadow: 2px 2px black;
 }

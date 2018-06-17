@@ -1,5 +1,4 @@
 .wrapper {
-  background: #ECEFF1;
   height: 100%;
   display: flex;
   flex-flow: row wrap;
@@ -7,5 +6,5 @@
   justify-content: space-around;
   align-content: flex-start;
   overflow: auto;
-  background-image: url(../retina_wood.png);
+  background-image: url("../GrassGreenTexture0006.jpg")
 }
