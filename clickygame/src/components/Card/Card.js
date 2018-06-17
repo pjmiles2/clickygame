@@ -1,9 +1,15 @@
 import React from "react";
+import "./Card.css";
 
 const Card = props => (
-  <div>
-  <h1>Card</h1>
+  <div className="card">
+    <div className="img-container">
+      <img alt={props.name} src={props.image} />
 
+    <span onClick={() => props.removeFriend(props.id)} className="remove">
+      𝘅
+    </span>
+    </div>
   </div>
 );
 
